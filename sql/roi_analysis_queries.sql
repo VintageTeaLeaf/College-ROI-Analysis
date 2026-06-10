@@ -7,7 +7,7 @@ SELECT
     count
 FROM major_summary
 ORDER BY avg_roi DESC
-LIMIT 20;
+LIMIT 10;
 
 -- 2. Majors with the highest average debt
 SELECT
@@ -18,7 +18,7 @@ SELECT
     count
 FROM major_summary
 ORDER BY avg_debt DESC
-LIMIT 20;
+LIMIT 10;
 
 -- 3. Majors with the highest 5-year earnings
 SELECT
@@ -29,7 +29,7 @@ SELECT
     count
 FROM major_summary
 ORDER BY avg_earnings DESC
-LIMIT 20;
+LIMIT 10;
 
 -- 4. Majors with the strongest earnings growth
 
@@ -40,4 +40,4 @@ SELECT
     count
 FROM major_summary
 ORDER BY avg_growth DESC
-LIMIT 20;
+LIMIT 10;
