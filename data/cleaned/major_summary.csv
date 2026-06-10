@@ -1,4 +1,4 @@
-CIPDESC,mean_roi,median_roi,mean_debt,median_debt,mean_earnings,median_earnings,mean_growth,median_growth,mean_growth_ratio,median_growth_ratio,count
+CIPDESC,avg_roi,median_roi,avg_debt,median_debt,avg_earnings,median_earnings,avg_growth,median_growth,avg_growth_ratio,median_growth_ratio,count
 Accounting and Related Services.,3.118565583717433,3.018445502645503,26078.703363914374,25000.0,73048.38508371385,71752.0,18640.022328548643,18443.0,1.3521309109549715,1.3401747078092774,654
 "Aerospace, Aeronautical, and Astronautical/Space Engineering.",4.2589389691428945,3.916916996047431,23693.8,24846.0,97584.12727272727,97915.0,23713.943396226416,23567.0,1.3281907442821002,1.330019768426998,55
 Agricultural Business and Management.,3.508456347450029,3.1712428533962758,19846.41935483871,20000.0,66459.51612903226,63223.5,17590.29508196721,17431.0,1.3636816179896472,1.3684384285242654,62
