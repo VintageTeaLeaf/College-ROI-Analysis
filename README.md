@@ -1,4 +1,4 @@
-# college-roi-analysis
+# College Major ROI Analysis
 Analyzed U.S. College Scorecard data to identify which majors provide the strongest financial return on investment.
 
 Raw data is not included due to file size. Data source: College Scorecard.
