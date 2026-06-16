@@ -3,10 +3,20 @@ Analyzed U.S. College Scorecard data to identify which majors provide the strong
 
 Raw data is not included due to file size. Data source: College Scorecard.
 
+Questions Answered
+Which majors have the highest debt?
+Which majors have the highest earnings?
+Which majors show the strongest earnings growth?
+Which majors provide the best debt-to-earnings ROI?
+
 Tools:
 • Python (Pandas)
 • SQL (SQLite)
 • Tableau
+
+## Tableau Dashboard
+
+![College Major ROI Dashboard](images/tableau_dashboard.png)
 
 Key Findings:
 • Applied Mathematics had the highest ROI.
