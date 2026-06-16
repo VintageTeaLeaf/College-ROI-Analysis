@@ -19,7 +19,7 @@ Tools:
 ![College Major ROI Dashboard](images/tableau_dashboard.png)
 
 Key Findings:
-• Applied Mathematics had the highest ROI.
-• Computer Engineering and Computer Science produced the highest earnings.
-• Pharmacy showed the strongest earnings growth.
-• Technology-related majors often carried the highest debt loads.
+Applied Mathematics had the highest ROI.
+Computer Engineering and Computer Science produced the highest earnings.
+Pharmacy showed the strongest earnings growth.
+Technology-related majors often carried the highest debt loads.
